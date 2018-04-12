@@ -1,0 +1,1 @@
+A simple website, built using htnl, css, jquery, and bootstrap.
